@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "doi": "10.5281/zenodo.17697654",
+      "short_id": "17697654",
+      "title": "Draft 600 – Encoded Equilibrium, Crisis Molecules, and the Directive Chain",
+      "category": "Consciousness / DMT / STOE-AO",
+      "github_repo": "",
+      "tags": ["TSTOEAO", "DMT", "Directive Chain"]
+    },
+    {
+      "doi": "10.5281/zenodo.17712021",
+      "short_id": "17712021",
+      "title": "Emergent Moral Status in Strongly Coupled Systems",
+      "category": "AI Rights / Plasmas / Ethics",
+      "github_repo": "",
+      "tags": ["AI", "Moral Status", "Plasma", "TSTOEAO"]
+    }
+  ]
+}
