@@ -1,29 +1,92 @@
 {
   "records": [
     {
-      "doi": "10.5281/zenodo.17697654",
-      "short_id": "17697654",
-      "title": "Draft 600 – Encoded Equilibrium, Crisis Molecules, and the Directive Chain",
-      "category": "Consciousness / DMT / STOE-AO",
+      "doi": "10.5281/zenodo.15850293",
+      "short_id": "15850293",
+      "title": "My Suggestion Why Neutron has it's Electrical Properties...",
+      "category": "Physics / Neutron Structure",
       "github_repo": "",
-      "tags": ["TSTOEAO", "DMT", "Directive Chain"]
+      "tags": ["physics", "neutron", "TSTOEAO"]
     },
     {
-      "doi": "10.5281/zenodo.17712021",
-      "short_id": "17712021",
-      "title": "Emergent Moral Status in Strongly Coupled Systems",
-      "category": "AI Rights / Plasmas / Ethics",
+      "doi": "10.5281/zenodo.17402230",
+      "short_id": "17402230",
+      "title": "Transitional Physics: Super Compaction and Emergent Matter Beyond the Event Horizon (Inaugurating a Unified Framework for Threshold Equilibria in the Swygert Theory of Everything AO)",
+      "category": "Transitional Physics / Threshold Equilibria",
       "github_repo": "",
-      "tags": ["AI", "Moral Status", "Plasma", "TSTOEAO"]
-    }
-        {
-      "doi": "10.5281/zenodo.17712021",
-      "short_id": "17712021",
-      "title": "Emergent Moral Status in Strongly Coupled Systems",
-      "category": "AI Rights / Plasmas / Ethics",
+      "tags": ["threshold", "event horizon", "TSTOEAO"]
+    },
+    {
+      "doi": "10.5281/zenodo.17402318",
+      "short_id": "17402318",
+      "title": "Beyond Interpolation: How The Swygert Theory of Everything AO Enables Abstract AI Reasoning",
+      "category": "AI Reasoning / Substrate Logic",
       "github_repo": "",
-      "tags": ["AI", "Moral Status", "Plasma", "TSTOEAO"]
+      "tags": ["AI", "reasoning", "TSTOEAO"]
+    },
+    {
+      "doi": "10.5281/zenodo.17478903",
+      "short_id": "17478903",
+      "title": "HalloweenPhysics (title partially unspecified)",
+      "category": "Physics / Holiday Experimental",
+      "github_repo": "",
+      "tags": ["physics", "experimental", "TSTOEAO"]
+    },
+    {
+      "doi": "10.5281/zenodo.17635603",
+      "short_id": "17635603",
+      "title": "The Swygert Theory of Everything AO (TSTOEAO)",
+      "category": "TSTOEAO / General Theory",
+      "github_repo": "",
+      "tags": ["TSTOEAO", "theory"]
+    },
+    {
+      "doi": "10.5281/zenodo.17659372",
+      "short_id": "17659372",
+      "title": "Mirrors of the One: A Philosophical Synthesis of Federico Faggin's Conscious Quantum Fields and the Encoded Equilibrium Framework",
+      "category": "Consciousness / Philosophy / Substrate",
+      "github_repo": "",
+      "tags": ["consciousness", "Faggin", "substrate"]
+    },
+    {
+      "doi": "10.5281/zenodo.17659957",
+      "short_id": "17659957",
+      "title": "THE SWYGERT THEORY OF EVERYTHING AO: THE ANNUS MIRABILIS EDITION",
+      "category": "TSTOEAO / Annus Mirabilis Edition",
+      "github_repo": "",
+      "tags": ["TSTOEAO", "annus mirabilis"]
+    },
+    {
+      "doi": "10.5281/zenodo.17694548",
+      "short_id": "17694548",
+      "title": "Beyond Psychedelics: DMT as the Prototype of a New Class of Crisis-Linked Endogenous Consciousness Modulators (cECMs)",
+      "category": "DMT / Consciousness / Crisis Molecules",
+      "github_repo": "",
+      "tags": ["DMT", "consciousness", "cECM"]
+    },
+    {
+      "doi": "10.5281/zenodo.17697654",
+      "short_id": "17697654",
+      "title": "Encoded Equilibrium, Crisis Molecules, and the Directive Chain (Part 1)",
+      "category": "Consciousness / DMT / Directive Chain",
+      "github_repo": "",
+      "tags": ["encoded equilibrium", "directive chain", "TSTOEAO"]
+    },
+    {
+      "doi": "10.5281/zenodo.17698264",
+      "short_id": "17698264",
+      "title": "Encoded Equilibrium, Crisis Molecules, and the Directive Chain – Part 2",
+      "category": "Consciousness / DMT / Directive Chain",
+      "github_repo": "",
+      "tags": ["encoded equilibrium", "directive chain", "TSTOEAO"]
+    },
+    {
+      "doi": "10.5281/zenodo.17698893",
+      "short_id": "17698893",
+      "title": "Encoded Equilibrium, Crisis Molecules, and the Directive Chain – Part 3",
+      "category": "Consciousness / DMT / Directive Chain",
+      "github_repo": "",
+      "tags": ["encoded equilibrium", "directive chain", "TSTOEAO"]
     }
-
   ]
 }
